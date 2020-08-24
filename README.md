@@ -5,7 +5,7 @@ Provided is a matlab code that does image segmentation and edge detection given 
 
 
 ## Results
-We used [BSD500 dataset](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) for demonstration porposes and the corresponding output of our algorithm is saved in the file "triplet_outputs"
+We tested our algorithm [BSD500 dataset](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/). See our resulting segmentations in "results" folder.
 
 
 ## Demonstrations
