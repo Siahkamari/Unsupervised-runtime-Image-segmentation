@@ -11,6 +11,11 @@ We tested our algorithm [BSD500 dataset](https://www2.eecs.berkeley.edu/Research
 ## Demonstrations
 Bellow you can see the iterations of our algorithms on some images!
 ![Alt Text](out.gif)
+![Alt Text](out2.gif)
+![Alt Text](out2.gif)
+![Alt Text](out2.gif)
+![Alt Text](out2.gif)
+
 
 
 
