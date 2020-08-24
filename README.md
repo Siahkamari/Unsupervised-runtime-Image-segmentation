@@ -13,4 +13,4 @@ We used [BSD500 dataset](https://www2.eecs.berkeley.edu/Research/Projects/CS/vis
 Bellow you can see the iterations of our algorithms on some images!
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](out.gif)
