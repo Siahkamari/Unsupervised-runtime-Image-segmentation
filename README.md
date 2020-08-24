@@ -1,7 +1,7 @@
 # Unsupervised Runtime Image Segmentation
 
 
-Provided is a matlab code that does image segmentation and edge detection based on a single image. 
+Provided is a matlab code that does image segmentation and edge detection given an rgb image. 
 
 
 ## Results
